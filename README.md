@@ -4,6 +4,8 @@ Summary:
 
 Today you will learn about software requirements, their types, levels, relationships and dependencies, as well as the "As-Is" and "To-Be" models. You will build a context diagram, identify stakeholder roles, problems, needs and product business requirements. 
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -238,5 +240,3 @@ Example of part of the finalized table for task 1.
 2. Find descriptions of concepts and terms and put them in a glossary.
 3. Add new identified stakeholders to the stakeholder directory.
 4. Specify attributes of new stakeholders.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/65b908cf2530c20871f533df/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
