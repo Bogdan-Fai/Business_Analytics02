@@ -1,15 +1,15 @@
-Hello, student of School21!😉
+Hello, School21 student! 😉
 
-To make it easier for you to navigate the material, we have prepared a list of topics that you will learn in this project.
+To help you navigate through the material, we have prepared a list of topics that you will learn in this project.
 
 We will study:
 - Requirements;
 - Types of requirements;
 - Levels of requirements;
-- As is & To be;
-- Context diagram.
+- As Is & To Be;
+- Context Diagram.
 
-Now, knowing what awaits you in this project, you can slowly begin to study the topics listed above.😇
+Now that you know what to expect in this project, you can slowly begin to study the topics listed above. 😇
 
 We have also prepared a list of recommended software:
 - Microsoft Word;

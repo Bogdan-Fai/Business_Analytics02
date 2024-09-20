@@ -89,11 +89,11 @@ Requirements of different types for a software product are always interrelated, 
 
 ### 2. "As-Is" and "To-Be" Models <div id="32"></div>
 
-**As-Is** is a model of the current state of a system or organization. It shows the current processes, objects, roles, and actions. The purpose of building an As-Is model is to identify the current state and problem areas. Based on the As-Is model, we need to understand what should be done to solve the problem and build a **To-Be** model - the expected state of the future system and/or changes in processes and/or the system itself. And further, to determine the sequence of moving from the current to the future state of the system.
+**As-Is** is a model of the current state of a system or organization. It shows the current processes, objects, roles, and actions. The purpose of building an As-Is model is to identify the current state and problem areas. Based on the As-Is model, we need to understand what should be done to solve the problem and build a **To-Be** model — the expected state of the future system and/or changes in processes and/or the system itself. And further, to determine the sequence of moving from the current to the future state of the system.
 
 ### 3. Context Diagram <div id="33"></div>
 
-A context diagram characterizes a current (existing) or future (expected) system in its relationships with the surrounding world - stakeholders and related systems. It shows what information flows or control actions are transmitted from the outside to the inside of the system, and what is transmitted from the system to the outside, and who is doing it. A context diagram does not show what is done inside the system, only the "black box". It also helps define the boundaries of the system.
+A context diagram characterizes a current (existing) or future (expected) system in its relationships with the surrounding world — stakeholders and related systems. It shows what information flows or control actions are transmitted from the outside to the inside of the system, and what is transmitted from the system to the outside, and who is doing it. A context diagram does not show what is done inside the system, only the "black box". It also helps define the boundaries of the system.
 
 #### Description
 
@@ -141,7 +141,7 @@ An example of a context diagram for task 1 is shown in Fig. 2.
 
 The management of a chain of barbershops decided to implement an online booking system. The main objective is to develop the business by expanding the customer base through the possibility of online registration, as well as to reduce employee labour costs and manual labour by automatically informing customers through communication channels. 
 
-Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, sms) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
+Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, SMS) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
 
 The schedule of masters and the services provided by each master should be entered by the manager, who may be more than one person. This person is also responsible for keeping the schedule up to date and adjusting it if necessary, communicating with customers manually, marking the service, charging and accepting payment, sending the payment data to the accounting department. The manager can also receive reports on completed services and view customer feedback.
 
@@ -169,7 +169,7 @@ The first step was to collect orders from stores and caterers in any way possibl
 
 **Recommendations for the task:**
 
-Check the indication of all problems covered in the project Stakeholders, Exercise 02 - Interests, Needs, Problems of Stakeholders.
+Check the indication of all problems covered in the project Stakeholders, Exercise 02 — Interests, Needs, Problems of Stakeholders.
 
 A part of a table identifying the roles, their actions and problems using Task 1 as an example. 
 
@@ -205,7 +205,7 @@ An example of the context diagram of Task 1 is shown in the figure.
 
 1. Add user actions of the system To-Be in the table created in the **Exercise 00 — Roles and Their Actions As-Is**, based on the context diagram.
 2. Refine the diagram or source table if necessary.
-3. Write a To-Be condition for each problem - whether the solution helps to resolve the problem when applying the system.
+3. Write a To-Be condition for each problem — whether the solution helps to resolve the problem when applying the system.
 4. Indicate your answers in turn-in file ex02\_<product prefix>\_tobe.xlsx.
 
 **Recommendations for tasks:**
